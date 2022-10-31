@@ -2,7 +2,7 @@
 - 👀 I’m interested in WEB 3.0 & METAVERSE
 - 🌱 I’m currently learning BLOCKCHAIN DEVELOPMENT
 - 💞️ I’m looking to collaborate with some blockchain developers 
-- 📫 How to reach me ...
+- 📫 Reach me via g-mail: hammadsweb@gmail.com
 
 <!---
 hammadshub/hammadshub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
