@@ -1,6 +1,6 @@
 - 👋 Hi, I’m HAMMAD (@hammadshub)
 - 👀 I’m interested in WEB 3.0 & METAVERSE
-- 🌱 I’m currently learning BLOCKCHAIN DEVELOPMENT
+- 🌱 I’m currently learning BLOCKCHAIN DEVELOPMENT and MERN Stack
 - 💞️ I’m looking to collaborate with some blockchain developers 
 - 📫 Reach me via g-mail: hammadsweb@gmail.com
 
